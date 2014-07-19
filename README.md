@@ -3,5 +3,4 @@ Envy
 
 Dark theme for Brackets - it's kind of greenish... so envy... you see what I did there?
 
-![railcasts php](https://github.com/brackets-themes/railcasts/raw/master/railcasts_php.PNG)
-![railcasts js](https://github.com/brackets-themes/railcasts/raw/master/railcasts_js.PNG)
+![envy theme js](https://github.com/Brackets-Themes/Envy/blob/master/envy-screenshot-js.png)
