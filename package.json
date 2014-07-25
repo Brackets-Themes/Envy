@@ -1,8 +1,8 @@
 {
     "title": "Envy",
     "name": "envy-theme",
-    "description": "Envy Theme for Brackets - it's kind of greenish... so envy... you see what I did there?",
-    "version": "1.0.0",
+    "description": "Envy Theme for Brackets - it's kind of greenish... so envy... you see what I did there? ** note that this will not be installable until Brackets Sprint 42 is released with the new core themes feature.",
+    "version": "1.0.1",
     "author": "Andrew MacKenzie <a.mackenzie@gmail.com> (http://github.com/mackenza)",
     "homepage": "https://github.com/Brackets-Themes/Envy",
     "repository": {
