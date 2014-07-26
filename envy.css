@@ -21,33 +21,6 @@
         color: #768686;
 }
 
-.cm-atom { color: #bec9e2; }
-.cm-qualifier { color: #d4c38f; }
-.cm-def { color: #bccdee ; }
-.cm-keyword { color: #d4c38f; }
-.cm-comment { color: #3d4c4b; }
-.cm-string {color: #bec9e2;}
-.cm-string-2 {color: #bec9e2;}
-.cm-variable { color: #83eeed; }
-.cm-variable-2 { color: #83eeed; }
-.cm-variable-3 { color: #83eeed; }
-.cm-tag { color: #d4c38f; }
-.cm-attribute { color: #67ba71; }
-.cm-property { color: #67ba71; }
-.cm-number {color: #67ba71; }
-.cm-meta {color: #83eeed; }
-.cm-operator {color: #83eeed; }
-.cm-builtin { color: #d4c38f; }
-.cm-hr { color: #bec9e2; }
-.cm-plus { color: #67ba71; }
-.cm-bracket { color: #83eeed; }
-.cm-error { color: #bc322f; }
-.cm-minus { color: #bc322f; }
-.cm-quote { color: #d4c38f; }
-
-
-/* Extra CSS */
-
 .CodeMirror.find-highlighting div.CodeMirror-selected,
 .CodeMirror .CodeMirror.find-highlighting div.CodeMirror-selected {
     background: red;
@@ -84,3 +57,48 @@
     color: #000 !important;
 }
 
+.cm-atom { color: #bec9e2; }
+.cm-qualifier { color: #d4c38f; }
+.cm-def { color: #bccdee ; }
+.cm-keyword { color: #d4c38f; }
+.cm-comment { color: #3d4c4b; }
+.cm-string {color: #bec9e2;}
+.cm-string-2 {color: #bec9e2;}
+.cm-variable { color: #83eeed; }
+.cm-variable-2 { color: #83eeed; }
+.cm-variable-3 { color: #83eeed; }
+.cm-tag { color: #d4c38f; }
+.cm-attribute { color: #67ba71; }
+.cm-property { color: #67ba71; }
+.cm-number {color: #67ba71; }
+.cm-meta {color: #83eeed; }
+.cm-operator {color: #83eeed; }
+.cm-builtin { color: #d4c38f; }
+.cm-hr { color: #bec9e2; }
+.cm-plus { color: #67ba71; }
+.cm-bracket { color: #83eeed; }
+.cm-error { color: #bc322f; }
+.cm-minus { color: #bc322f; }
+.cm-quote { color: #d4c38f; }
+
+/* Inline editor styling */
+
+.related-container .selection:before {
+    border-top: 9px solid transparent;
+    border-bottom: 9px solid transparent;
+}
+
+.inline-widget .CodeMirror, .inline-widget .CodeMirror-gutters {
+    background: transparent;
+}
+
+/* Non-editor styling */
+
+#image-holder,
+#not-editor {
+    background-color: #121919;
+}
+
+#image-holder {
+    color: #768f8f;
+}
