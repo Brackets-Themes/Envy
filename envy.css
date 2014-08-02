@@ -76,7 +76,7 @@ SOFTWARE.*/
 #editor-holder .CodeMirror-matchingbracket, .CodeMirror-matchingtag {
     /* Ensure visibility against gray inline editor background */
     background-color: #000000;
-    color: #00c652 !important;
+    color: #be2cff !important;
 }
 
 .cm-atom { color: #bec9e2; }
