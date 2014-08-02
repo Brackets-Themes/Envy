@@ -52,14 +52,8 @@
 }
 
 .CodeMirror-matchingbracket, .CodeMirror-matchingtag {
-    /* Ensure visibility against gray inline editor background */
-<<<<<<< HEAD
     background-color: #000000;
     color: #be2cff !important;
-=======
-    background-color: #00c652;
-    color: #000 !important;
->>>>>>> parent of a0e80c4... cleanup, removed dummy main.js
 }
 
 .cm-atom { color: #bec9e2; }
